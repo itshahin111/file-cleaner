@@ -103,7 +103,11 @@ deactivate
 
 ## 📸 Screenshots
 
-*Screenshot from 2025-08-16 11-30-56.png*
+🖼️ File Cleaner Tool — GUI Screenshot
+
+Here’s how the tool looks when running:
+
+![File Cleaner Tool GUI](https://raw.githubusercontent.com/itshahin111/file-cleaner/master/Screenshot%20from%202025-08-16%2011-30-56.png)
 
 ---
 
