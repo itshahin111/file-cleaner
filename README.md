@@ -1,6 +1,4 @@
----
 
-````markdown
 # 🧹 File Cleaner Tool
 
 A simple **GUI-based File Cleaner Tool** to quickly remove unwanted files (like `.jpg`, `.mp4`, `.pdf` etc.) from any folder.  
@@ -105,7 +103,7 @@ deactivate
 
 ## 📸 Screenshots
 
-*(Screenshot from 2025-08-16 11-30-56.png)*
+*Screenshot from 2025-08-16 11-30-56.png*
 
 ---
 
